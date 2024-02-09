@@ -1,0 +1,21 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+figure,
+input {
+    margin: 0;
+}
+
+button {
+    border: none;
+    font-family: inherit;
+}

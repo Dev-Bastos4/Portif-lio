@@ -1,0 +1,29 @@
+.main-section {
+    background-color: #F25A70;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    height: 465px;
+    border-bottom: 10px solid #7C5E99;
+}
+
+.main-section .main-title {
+    margin-bottom: 16px;
+}
+
+.main-section.-bgBlack {
+    background-color: black;
+    height: 370px;
+}
+
+.main-section.-bd1 {
+    border-color: #F25A70;
+}
+
+.main-section.-bgSecond {
+    background-color: #7C5E99;
+    height: 474px;
+}
+
+.main-section.-bdBlack {
+    border-color: black;
+}
